@@ -20,7 +20,7 @@ Additionally, the dataset contains the target variable 'count', representing the
 ## File Descriptions
 - `train.csv`: Training dataset containing historical ride-sharing data.
 - `test.csv`: Test dataset for making predictions.
-- `submission.csv`: Template file for submitting predictions to Kaggle.
+- `sampleSubmission.csv`: Template file for submitting predictions to Kaggle.
 
 ## Code
 The code for this project is organized into Jupyter Notebooks:
